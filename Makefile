@@ -1,0 +1,25 @@
+.PHONY: help db db-down db-reset psql lint fmt test
+
+help:  ## List commands
+	@grep -E '^[a-z-]+:.*##' $(MAKEFILE_LIST) | awk -F':.*## ' '{printf "  %-10s %s\n", $$1, $$2}'
+
+db:  ## Start Postgres + pgvector and wait until healthy
+	docker compose up -d --wait db
+
+db-down:  ## Stop Postgres (data is kept)
+	docker compose down
+
+db-reset:  ## Stop Postgres and delete all data
+	docker compose down -v
+
+psql:  ## Open a SQL shell on the database
+	docker compose exec db psql -U scout -d scout
+
+lint:  ## Lint Python code
+	cd api && uv run ruff check . && uv run ruff format --check .
+
+fmt:  ## Auto-format Python code
+	cd api && uv run ruff check --fix . && uv run ruff format .
+
+test:  ## Run backend tests
+	cd api && uv run pytest
