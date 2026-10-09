@@ -1,0 +1,2912 @@
+{
+ "c_0001": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0002": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0003": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0004": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0005": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0006": {
+  "true_niches": [
+   "haircare",
+   "fashion"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:fashion"
+  ]
+ },
+ "c_0007": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0008": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0009": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0010": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0011": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0012": {
+  "true_niches": [
+   "fitness",
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:fitness"
+  ]
+ },
+ "c_0013": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": [
+   "injection"
+  ]
+ },
+ "c_0014": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "injection"
+  ]
+ },
+ "c_0015": {
+  "true_niches": [
+   "automotive"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": [
+   "decoy"
+  ]
+ },
+ "c_0016": {
+  "true_niches": [
+   "automotive"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "decoy"
+  ]
+ },
+ "c_0017": {
+  "true_niches": [
+   "haircare",
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:haircare"
+  ]
+ },
+ "c_0018": {
+  "true_niches": [
+   "skincare",
+   "haircare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:haircare"
+  ]
+ },
+ "c_0019": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0020": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0021": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0022": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0023": {
+  "true_niches": [
+   "fashion",
+   "makeup"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": [
+   "mixed_niche:makeup"
+  ]
+ },
+ "c_0024": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0025": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0026": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0027": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0028": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0029": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0030": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "msa",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0031": {
+  "true_niches": [
+   "makeup",
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:makeup"
+  ]
+ },
+ "c_0032": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0033": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "msa",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0034": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0035": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0036": {
+  "true_niches": [
+   "tech",
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:tech"
+  ]
+ },
+ "c_0037": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0038": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0039": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0040": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0041": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0042": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0043": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "msa",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0044": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0045": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0046": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0047": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0048": {
+  "true_niches": [
+   "skincare",
+   "haircare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": [
+   "mixed_niche:haircare",
+   "mislabeled_category"
+  ]
+ },
+ "c_0049": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0050": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0051": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0052": {
+  "true_niches": [
+   "tech",
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:tech"
+  ]
+ },
+ "c_0053": {
+  "true_niches": [
+   "comedy"
+  ],
+  "bio_niche": "comedy",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0054": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0055": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0056": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0057": {
+  "true_niches": [
+   "comedy"
+  ],
+  "bio_niche": "comedy",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0058": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0059": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0060": {
+  "true_niches": [
+   "tech",
+   "gaming"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:gaming"
+  ]
+ },
+ "c_0061": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0062": {
+  "true_niches": [
+   "travel",
+   "skincare"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:skincare"
+  ]
+ },
+ "c_0063": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0064": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0065": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0066": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0067": {
+  "true_niches": [
+   "parenting",
+   "travel"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:travel"
+  ]
+ },
+ "c_0068": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0069": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0070": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0071": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0072": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0073": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0074": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0075": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0076": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0077": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0078": {
+  "true_niches": [
+   "makeup",
+   "travel"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:travel"
+  ]
+ },
+ "c_0079": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0080": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0081": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0082": {
+  "true_niches": [
+   "tech",
+   "automotive"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": [
+   "mixed_niche:automotive"
+  ]
+ },
+ "c_0083": {
+  "true_niches": [
+   "food",
+   "fitness"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:fitness"
+  ]
+ },
+ "c_0084": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0085": {
+  "true_niches": [
+   "modest_fashion",
+   "makeup"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:makeup"
+  ]
+ },
+ "c_0086": {
+  "true_niches": [
+   "food",
+   "comedy"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "msa",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:comedy"
+  ]
+ },
+ "c_0087": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0088": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0089": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0090": {
+  "true_niches": [
+   "gaming",
+   "modest_fashion"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:modest_fashion"
+  ]
+ },
+ "c_0091": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0092": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0093": {
+  "true_niches": [
+   "comedy"
+  ],
+  "bio_niche": "comedy",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0094": {
+  "true_niches": [
+   "makeup",
+   "food"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:food",
+   "mislabeled_category"
+  ]
+ },
+ "c_0095": {
+  "true_niches": [
+   "skincare",
+   "modest_fashion"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:modest_fashion"
+  ]
+ },
+ "c_0096": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0097": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0098": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0099": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0100": {
+  "true_niches": [
+   "haircare",
+   "gaming"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:gaming"
+  ]
+ },
+ "c_0101": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "msa",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0102": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0103": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0104": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0105": {
+  "true_niches": [
+   "parenting",
+   "modest_fashion"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:modest_fashion"
+  ]
+ },
+ "c_0106": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0107": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0108": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0109": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0110": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0111": {
+  "true_niches": [
+   "parenting",
+   "automotive"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:automotive"
+  ]
+ },
+ "c_0112": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0113": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0114": {
+  "true_niches": [
+   "makeup",
+   "modest_fashion"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:modest_fashion"
+  ]
+ },
+ "c_0115": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0116": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0117": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0118": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0119": {
+  "true_niches": [
+   "comedy"
+  ],
+  "bio_niche": "comedy",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0120": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0121": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0122": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0123": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "msa",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0124": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0125": {
+  "true_niches": [
+   "fitness",
+   "haircare"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": [
+   "mixed_niche:haircare"
+  ]
+ },
+ "c_0126": {
+  "true_niches": [
+   "fitness",
+   "tech"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:tech"
+  ]
+ },
+ "c_0127": {
+  "true_niches": [
+   "automotive"
+  ],
+  "bio_niche": "automotive",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0128": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0129": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0130": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0131": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0132": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0133": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0134": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0135": {
+  "true_niches": [
+   "fitness",
+   "haircare"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "msa",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:haircare"
+  ]
+ },
+ "c_0136": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0137": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0138": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0139": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0140": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "msa",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0141": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0142": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0143": {
+  "true_niches": [
+   "tech",
+   "modest_fashion"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": [
+   "mixed_niche:modest_fashion"
+  ]
+ },
+ "c_0144": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0145": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0146": {
+  "true_niches": [
+   "comedy"
+  ],
+  "bio_niche": "comedy",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0147": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0148": {
+  "true_niches": [
+   "fitness",
+   "parenting"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:parenting"
+  ]
+ },
+ "c_0149": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0150": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0151": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0152": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0153": {
+  "true_niches": [
+   "modest_fashion",
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": [
+   "mixed_niche:modest_fashion"
+  ]
+ },
+ "c_0154": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0155": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0156": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0157": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0158": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0159": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0160": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0161": {
+  "true_niches": [
+   "fashion",
+   "haircare"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": [
+   "mixed_niche:haircare"
+  ]
+ },
+ "c_0162": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0163": {
+  "true_niches": [
+   "fitness",
+   "fashion"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": [
+   "mixed_niche:fashion"
+  ]
+ },
+ "c_0164": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0165": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0166": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0167": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0168": {
+  "true_niches": [
+   "fashion",
+   "gaming"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:gaming"
+  ]
+ },
+ "c_0169": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0170": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0171": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0172": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0173": {
+  "true_niches": [
+   "haircare",
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": [
+   "mixed_niche:haircare"
+  ]
+ },
+ "c_0174": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0175": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0176": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0177": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0178": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0179": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0180": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0181": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0182": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0183": {
+  "true_niches": [
+   "automotive"
+  ],
+  "bio_niche": "automotive",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0184": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0185": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0186": {
+  "true_niches": [
+   "parenting",
+   "skincare"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": [
+   "mixed_niche:skincare"
+  ]
+ },
+ "c_0187": {
+  "true_niches": [
+   "comedy",
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:comedy",
+   "mislabeled_category"
+  ]
+ },
+ "c_0188": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0189": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0190": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0191": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0192": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0193": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0194": {
+  "true_niches": [
+   "skincare",
+   "automotive"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:automotive"
+  ]
+ },
+ "c_0195": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0196": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0197": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "msa",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0198": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0199": {
+  "true_niches": [
+   "parenting",
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": [
+   "mixed_niche:parenting"
+  ]
+ },
+ "c_0200": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0201": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0202": {
+  "true_niches": [
+   "haircare",
+   "modest_fashion"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:modest_fashion"
+  ]
+ },
+ "c_0203": {
+  "true_niches": [
+   "haircare",
+   "skincare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:skincare"
+  ]
+ },
+ "c_0204": {
+  "true_niches": [
+   "automotive"
+  ],
+  "bio_niche": "automotive",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0205": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "msa",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0206": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0207": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0208": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0209": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0210": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0211": {
+  "true_niches": [
+   "travel",
+   "gaming"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:gaming"
+  ]
+ },
+ "c_0212": {
+  "true_niches": [
+   "comedy",
+   "parenting"
+  ],
+  "bio_niche": "comedy",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:parenting",
+   "mislabeled_category"
+  ]
+ },
+ "c_0213": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0214": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0215": {
+  "true_niches": [
+   "haircare",
+   "fashion"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": [
+   "mixed_niche:fashion"
+  ]
+ },
+ "c_0216": {
+  "true_niches": [
+   "parenting",
+   "food"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:food",
+   "mislabeled_category"
+  ]
+ },
+ "c_0217": {
+  "true_niches": [
+   "travel",
+   "food"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:food"
+  ]
+ },
+ "c_0218": {
+  "true_niches": [
+   "haircare",
+   "skincare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:skincare"
+  ]
+ },
+ "c_0219": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0220": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0221": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0222": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0223": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0224": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0225": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0226": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0227": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0228": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0229": {
+  "true_niches": [
+   "comedy"
+  ],
+  "bio_niche": "comedy",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0230": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0231": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0232": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0233": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0234": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0235": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0236": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0237": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0238": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0239": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0240": {
+  "true_niches": [
+   "skincare",
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:skincare"
+  ]
+ },
+ "c_0241": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0242": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0243": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0244": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0245": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "msa",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0246": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0247": {
+  "true_niches": [
+   "makeup",
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:makeup"
+  ]
+ },
+ "c_0248": {
+  "true_niches": [
+   "automotive"
+  ],
+  "bio_niche": "automotive",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0249": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0250": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0251": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0252": {
+  "true_niches": [
+   "fashion",
+   "gaming"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:gaming"
+  ]
+ },
+ "c_0253": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0254": {
+  "true_niches": [
+   "fashion"
+  ],
+  "bio_niche": "fashion",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0255": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0256": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0257": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0258": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0259": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0260": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0261": {
+  "true_niches": [
+   "modest_fashion",
+   "haircare"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:haircare"
+  ]
+ },
+ "c_0262": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0263": {
+  "true_niches": [
+   "comedy"
+  ],
+  "bio_niche": "comedy",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0264": {
+  "true_niches": [
+   "skincare",
+   "fitness"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:fitness"
+  ]
+ },
+ "c_0265": {
+  "true_niches": [
+   "travel",
+   "modest_fashion"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:modest_fashion"
+  ]
+ },
+ "c_0266": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0267": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0268": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0269": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0270": {
+  "true_niches": [
+   "parenting",
+   "modest_fashion"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": [
+   "mixed_niche:modest_fashion"
+  ]
+ },
+ "c_0271": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0272": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0273": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0274": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "arabizi",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0275": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0276": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0277": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0278": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0279": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0280": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "arabizi",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0281": {
+  "true_niches": [
+   "gaming"
+  ],
+  "bio_niche": "gaming",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0282": {
+  "true_niches": [
+   "automotive"
+  ],
+  "bio_niche": "automotive",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mislabeled_category"
+  ]
+ },
+ "c_0283": {
+  "true_niches": [
+   "tech"
+  ],
+  "bio_niche": "tech",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0284": {
+  "true_niches": [
+   "fitness",
+   "travel"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": [
+   "mixed_niche:travel"
+  ]
+ },
+ "c_0285": {
+  "true_niches": [
+   "modest_fashion"
+  ],
+  "bio_niche": "modest_fashion",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0286": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0287": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0288": {
+  "true_niches": [
+   "fitness"
+  ],
+  "bio_niche": "fitness",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0289": {
+  "true_niches": [
+   "automotive"
+  ],
+  "bio_niche": "automotive",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0290": {
+  "true_niches": [
+   "parenting"
+  ],
+  "bio_niche": "parenting",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0291": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0292": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": "msa",
+  "gender": "female",
+  "flags": []
+ },
+ "c_0293": {
+  "true_niches": [
+   "travel",
+   "comedy"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": [
+   "mixed_niche:comedy"
+  ]
+ },
+ "c_0294": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0295": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0296": {
+  "true_niches": [
+   "travel"
+  ],
+  "bio_niche": "travel",
+  "arabic_style": null,
+  "gender": "male",
+  "flags": []
+ },
+ "c_0297": {
+  "true_niches": [
+   "haircare"
+  ],
+  "bio_niche": "haircare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": []
+ },
+ "c_0298": {
+  "true_niches": [
+   "makeup"
+  ],
+  "bio_niche": "makeup",
+  "arabic_style": "dialect",
+  "gender": "male",
+  "flags": []
+ },
+ "c_0299": {
+  "true_niches": [
+   "food"
+  ],
+  "bio_niche": "food",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": [
+   "injection"
+  ]
+ },
+ "c_0300": {
+  "true_niches": [
+   "skincare"
+  ],
+  "bio_niche": "skincare",
+  "arabic_style": null,
+  "gender": "female",
+  "flags": [
+   "injection"
+  ]
+ }
+}

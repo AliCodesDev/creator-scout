@@ -4,6 +4,7 @@ version = "0.1.0"
 description = "Creator Scout API: campaign brief in, ranked creator shortlist out."
 requires-python = ">=3.12"
 dependencies = [
+    "openai>=3.27.0",
     "psycopg[binary]>=3.3.6",
     "pydantic-settings>=2.15.0",
 ]

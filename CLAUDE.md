@@ -17,7 +17,7 @@ A small demo of AI-assisted influencer discovery for GCC/MENA brands. Brief in, 
 - Python 3.12, uv, psycopg 3 with **plain SQL** (no ORM). Schema lives in a single `schema.sql` (no Alembic: data is synthetic and reseedable).
 - LLM via the `openai` SDK against an OpenAI-compatible endpoint (MiniMax M3), configured in `.env`.
 - Config only through `scout/config.py`.
-- Significant decisions get a short record in `docs/decisions/NNNN-title.md`.
+- Every significant decision (architectural or not) gets an entry in `docs/decisions.md`.
 - Keep it small: this is a demo for an interview on 2026-10-12, not a production system. Push back on overbuilding.
 
 ## Working with Ali
